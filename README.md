@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onyangoju
-- 👀 I’m interested in learning and perfecting my programming skills
-- 🌱 I’m currently learning ICT
+- 👀 I’m interested in increasing my code efficiency
+- 🌱 I’m currently learning ICT at Maseno University,main campus.
 - 📫 How to reach me prollyjunior@gmail.com
 
 <!---
