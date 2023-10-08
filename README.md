@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @onyangoju
-- 👀 I’m interested in learning and perfecting
+- 👀 I’m interested in learning and perfecting my programming skills
 - 🌱 I’m currently learning ICT
-- 💞️ I’m looking to collaborate on all programming requests
 - 📫 How to reach me prollyjunior@gmail.com
 
 <!---
