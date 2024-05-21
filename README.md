@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Junior Onyango
+- 👋 Hi, I’m Onyango
 - 👀 I’m interested in increasing my code efficiency
 - 🌱 I’m currently taking ICT at Maseno University,main campus.
 - I have also gained certifications in Cisco and methods to write good code.
