@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Onyango 
-- 👀 I’m interested in increasing my code efficiency
-- 🌱 I’m currently a student at Maseno University,Main Campus.
-- I have also gained certifications in Cisco and methods to write good code.
-- 📫 Am open to any form of self motivating and open source code,you can hit me up at +254 705682047
+# 👋 Hi, I’m Pauline Onyango
+**Full Stack Developer | ICT Graduate | PSIP Cohort 8 | ICT Lead, Safe Nest Kenya | Mental Health Advocate**
 
-<!---
-onyangoju/onyangoju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Full Stack Developer with interests in AI, Machine Learning, and building efficient, scalable systems  
+- 🌱 BSc graduate in Information and Communication Technology Management from Maseno University  
+- 🏢 Currently serving as ICT Lead at Safe Nest Kenya  
+- 🧠 Passionate about mental health advocacy, community-based digital innovation, and ethical technology  
+- 🛠️ Skilled in Python, JavaScript, Git, basic Machine Learning, cybersecurity, and modern ICT systems  
+- 📜 Certified through Cisco Networking Academy, IBM, and Power Learn Project Academy  
+- 🤝 Open to collaboration, open-source projects, and continuous learning  
+- 🔗 LinkedIn: [Pauline Onyango](https://www.linkedin.com/in/pauline-onyango-595b2b294/)  
+- 📫 Reach me at: +254 705 682 047
