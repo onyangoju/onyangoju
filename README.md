@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Pauline Onyango
-**Full Stack Developer | ICT Graduate | PSIP Cohort 8 | ICT Lead, Safe Nest Kenya | Mental Health Advocate**
+**Full Stack Developer || ICT Lead, Safe Nest Kenya || Mental Health Advocate || Mental Health Advocate Research Assistant**
 
 - 💻 Full Stack Developer with interests in AI, Machine Learning, and building efficient, scalable systems  
 - 🌱 BSc graduate in Information and Communication Technology Management from Maseno University  
